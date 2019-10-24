@@ -23,7 +23,7 @@ If necessary remove any observations to ensure that there are no missing values 
 Obtain the mean, minimum and maximum value for each column containing numerical data.
 List the 10 happiest countries.
 List the 10 least happy countries.
-#B. Indexing and grouping
+# B. Indexing and grouping
 Use the column 'Region' to create a separate DataFrame containing the data points from each of the six regions: North America, Latin America, Western Europe, Eastern Europe, Asia Pacific, Africa.
 Compute the mean happiness score for each region and rank the regions from most happy to least happy.
 Compute the number of countries in each region that have a happiness score above 6.0.
